@@ -12,5 +12,5 @@ public class Parent {
 	// final 메소드 상속 됨 -> 하지만 override는 불가능함
 	protected final void finalPrint() {
 		System.out.println("Parent Final Method Call");
-	}
+	}	
 }
